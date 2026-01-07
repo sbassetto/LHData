@@ -1,0 +1,11 @@
+2.0.1 2016-10-27
+
+  - edited authors string in dataset_description.json
+
+2.0.0 2016-09-30
+ 
+  - converted to BIDS std
+
+1.0.0 2011-10-06
+
+  -  initial release
